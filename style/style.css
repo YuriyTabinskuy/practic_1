@@ -1,0 +1,80 @@
+.list-1, 
+.list-2,
+.header-list-1,
+.header-list-2{
+    display: inline-block;
+    list-style-type:none; 
+     padding: 0;
+      margin: 0; 
+}
+.header-list-1,
+.header-list-2{
+    padding: 0px 10px;
+    font-size: 14px; 
+    font-weight: bold;
+}
+.biografy-2{
+     margin-bottom: 10px; 
+}
+
+.infobox {
+    border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+}
+table {
+    width: 22em;
+    text-align: left;
+    font-size: 88%;
+    line-height: 1.5em;
+    float: right;
+    clear: right;
+    margin: 0 0 1em 1em;
+    width: 22em;
+    font-size: 85%;
+    text-align: left;
+    line-height: 1.25em;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+    
+}
+html, body{
+    font-family: sans-serif;
+}
+.head{
+        position: relative;
+        z-index: 0;
+}
+ul {
+    list-style-type: none;
+}
+tr{
+        display: table-row;
+        vertical-align: inherit;
+        border-color: inherit; 
+}
+.oksana_1{
+    width: 300px;
+    height: 200px;
+}
+#footer-places li {
+    float: left;
+    margin-right: 1em;
+    line-height: 2;
+}
+.mw-footer li {
+    color: #202122;
+    margin: 0;
+    padding: 0.5em 0;
+    font-size: 0.75em;
+}
+.mw-footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
